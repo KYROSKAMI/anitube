@@ -1,0 +1,9 @@
+<resources>
+    <color name="anitube_primary">#E50914</color>
+    <color name="anitube_primary_variant">#B80710</color>
+    <color name="anitube_background">#08080A</color>
+    <color name="anitube_surface">#121318</color>
+    <color name="anitube_surface_variant">#1C1E26</color>
+    <color name="anitube_text_primary">#FFFFFF</color>
+    <color name="anitube_text_secondary">#9E9EA7</color>
+</resources>

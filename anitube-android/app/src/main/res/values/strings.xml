@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Anitube</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_discover">Discover</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_watchlist">Watchlist</string>
+    <string name="nav_profile">Profile</string>
+    <string name="play_now">Watch Now</string>
+    <string name="episodes">Episodes</string>
+    <string name="sub_dub_selector">Audio Track</string>
+    <string name="retry">Retry</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.Anitube" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">@color/anitube_background</item>
+        <item name="android:navigationBarColor">@color/anitube_background</item>
+        <item name="android:windowBackground">@color/anitube_background</item>
+    </style>
+</resources>
